@@ -1,0 +1,633 @@
+.desktop-2-child,
+.desktop-2-inner,
+.desktop-2-item {
+  position: absolute;
+  top: 304px;
+  left: 431px;
+  background: linear-gradient(90deg, #0046ff, rgba(22, 40, 77, 0.54));
+  width: 483px;
+  height: 32px;
+}
+.desktop-2-inner,
+.desktop-2-item {
+  top: 393px;
+  left: 305px;
+  width: 282px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.desktop-2-inner {
+  top: 482px;
+  left: 574px;
+  width: 270px;
+}
+.httpslottiefilescom88140-icon {
+  position: absolute;
+  top: 151px;
+  left: 982px;
+  width: 436px;
+  height: 775px;
+  object-fit: cover;
+}
+.we {
+  font-size: 100px
+}
+.we-are-a-promising-site-ready {
+  margin: 0;
+}
+.we-are-a-container {
+  position: absolute;
+  top: 255px;
+  left: 69px;
+  font-weight: 500;
+  display: inline-block;
+  width: 913px;
+  height: 365px;
+  font-size: 65px;
+}
+
+.nutri-facts
+{
+   text-transform: uppercase;
+  background-image: linear-gradient(
+    -5deg,
+    #231557 0%,
+    #44107a 29%,
+    #ff1361 67%,
+    #fff800 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 2s linear infinite;
+  display: inline-block;
+      font-size: 100px;
+}
+
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
+}
+
+.nutri-facts1,
+.things-we-value-container,
+.what-makes-us {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  font-family: var(--font-abhaya-libre);
+}
+.nutri-facts1 {
+  top: 1573px;
+  left: 141px;
+  font-size: 119px;
+  text-align: center;
+  justify-content: center;
+  width: 1169px;
+  height: 124px;
+}
+.things-we-value-container,
+.what-makes-us {
+  top: 2349px;
+  left: 346px;
+  font-size: 100px;
+  width: 882px;
+}
+.what-makes-us {
+  top: 4017px;
+  left: 106px;
+  font-size: 105px;
+  text-align: center;
+  justify-content: center;
+  width: 1257px;
+  height: 137px;
+}
+.welcome-to-nutri-facts {
+  position: absolute;
+  top: 1731px;
+  left: 101px;
+  font-size: 37px;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.86);
+  display: inline-block;
+  width: 1266px;
+  height: 584px;
+}
+.lingkaran-icon {
+  position: absolute;
+  top: 1696.5px;
+  left: 1137.5px;
+  width: 457px;
+  height: 458px;
+}
+.group-child {
+  background-color: #282828;
+}
+.group-child,
+.group-div,
+.group-icon,
+.rectangle-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 366px;
+  height: 588px;
+}
+.group-div,
+.group-icon {
+  top: 3227px;
+  left: 543px;
+}
+.group-icon {
+  height: 37%;
+  width: 194.44%;
+  top: 9.08%;
+  right: -432.29%;
+  bottom: 53.92%;
+  left: 337.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-item {
+  background-color: #01b3f9;
+}
+.group-item,
+.rectangle-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 363px;
+  height: 588px;
+}
+.group-child1,
+.group-inner,
+.innovation {
+  position: absolute;
+  top: 360px;
+  left: 0;
+  width: 363px;
+  height: 228px;
+}
+.group-child1,
+.innovation {
+  top: 0;
+  height: 221px;
+}
+.innovation {
+  top: 96px;
+  left: 42px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 319px;
+  height: 371.62px;
+}
+.group-parent,
+.rectangle-div {
+  position: absolute;
+  top: 2561px;
+  left: 544px;
+  width: 363px;
+  height: 588px;
+}
+.rectangle-div {
+  top: 0;
+  left: 0;
+  background-color: #0045fa;
+  box-shadow: 4px 6px 6px -8px rgba(0, 0, 0, 0.25);
+}
+.group-child2,
+.group-child3,
+.group-child4,
+.group-child5,
+.group-child6 {
+  position: absolute;
+  top: 387px;
+  left: 0;
+  background-color: var(--color-mediumblue-100);
+  width: 185px;
+  height: 201px;
+}
+.group-child3,
+.group-child4,
+.group-child5,
+.group-child6 {
+  top: 0;
+  left: 179px;
+}
+.group-child4,
+.group-child5,
+.group-child6 {
+  top: 387px;
+  left: 178px;
+}
+.group-child5,
+.group-child6 {
+  left: 185px;
+  background-color: var(--color-royalblue);
+  width: 178px;
+}
+.group-child6 {
+  top: 0;
+  left: 1px;
+}
+.excellence {
+  position: absolute;
+  top: 150px;
+  left: 55px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 368px;
+  height: 263.42px;
+}
+.group-child7,
+.group-container {
+  position: absolute;
+  top: 2561px;
+  left: 101px;
+  width: 423px;
+  height: 588px;
+}
+.group-child7 {
+  top: 0;
+  left: 0;
+  background-color: #666;
+  width: 385px;
+}
+.pattern-icon,
+.pattern-icon1 {
+  position: absolute;
+  top: 3px;
+  left: 2px;
+  width: 186px;
+  height: 186px;
+  overflow: hidden;
+}
+.pattern-icon1 {
+  top: 399px;
+  left: 200px;
+}
+.integrity {
+  position: absolute;
+  top: 19px;
+  left: 71px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 298.03px;
+  height: 531.55px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 2561px;
+  left: 954px;
+  width: 386px;
+  height: 588px;
+}
+.desktop-2-child1,
+.group-child8 {
+  position: absolute;
+  top: 3644px;
+  left: 109px;
+  width: 182.3px;
+  height: 171px;
+}
+.group-child8 {
+  top: 0;
+  left: 0;
+  background-color: #424242;
+  width: 363px;
+  height: 588px;
+}
+.collaboration,
+.rectangle-wrapper1 {
+  position: absolute;
+  top: -588px;
+  left: -434px;
+  width: 363px;
+  height: 588px;
+}
+.collaboration {
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 422px;
+  height: 91px;
+}
+.collaboration-wrapper,
+.pattern-icon2 {
+  position: absolute;
+  top: -357px;
+  left: -422px;
+  width: 422px;
+  height: 91px;
+}
+.pattern-icon2 {
+  top: -171px;
+  left: -251.7px;
+  width: 180.7px;
+  height: 171px;
+  overflow: hidden;
+}
+.pattern-icon3,
+.pattern-icon4,
+.pattern-icon5 {
+  position: absolute;
+  top: -588px;
+  left: -252.3px;
+  width: 181.3px;
+  height: 163px;
+  overflow: hidden;
+}
+.pattern-icon4,
+.pattern-icon5 {
+  top: -171px;
+  left: -432px;
+  width: 181px;
+  height: 171px;
+}
+.pattern-icon5 {
+  top: -588px;
+  width: 179.7px;
+  height: 163px;
+}
+.desktop-2-inner1,
+.group-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 434px;
+  height: 588px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.desktop-2-inner1 {
+  top: 3815px;
+  left: 543px;
+}
+.desktop-2-child2 {
+  position: absolute;
+  top: 3706px;
+  left: 640px;
+  width: 181px;
+  height: 109px;
+}
+.customer-value-txt-container {
+  line-break: anywhere;
+  width: 100%;
+}
+.customer-value {
+  position: absolute;
+  top: 99.33px;
+  left: 18px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 319px;
+  height: 371.62px;
+}
+.polygon-icon {
+  position: absolute;
+  top: 379.33px;
+  left: 0;
+  width: 366px;
+  height: 212px;
+}
+.customer-value-parent,
+.group-child9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 363px;
+  height: 591.33px;
+}
+.customer-value-parent {
+  top: 3223.67px;
+  left: 543px;
+  width: 366px;
+  text-align: center;
+}
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #131313;
+  width: 388px;
+  height: 588px;
+}
+.care-and-share,
+.lingkaran-icon1,
+.lingkaran-icon2 {
+  position: absolute;
+  top: 381.5px;
+  left: 4.5px;
+  width: 383.5px;
+  height: 381px;
+}
+.care-and-share,
+.lingkaran-icon2 {
+  top: 0;
+}
+.care-and-share {
+  top: 88px;
+  left: 40px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 319px;
+  height: 371.62px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 3227px;
+  left: 958px;
+  width: 388px;
+  height: 588px;
+  overflow: hidden;
+  text-align: center;
+}
+.comprehensive-range-of {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 1134.14px;
+  height: 66.61px;
+}
+.after-analyzing-your-container {
+  top: 103.26px;
+  left: 4.26px;
+  font-size: 21px;
+  color: var(--color-gray-100);
+  width: 785.31px;
+  height: 52.59px;
+}
+.after-analyzing-your-container,
+.customized-solution,
+.flexible-and-budget {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.customized-solution {
+  top: 0;
+  left: 0.26px;
+  font-weight: 600;
+  width: 1134.14px;
+  height: 66.61px;
+}
+.flexible-and-budget {
+  top: 167.91px;
+  left: 2.01px;
+}
+.committed-timelines,
+.flexible-and-budget,
+.strategic-approach {
+  font-weight: 600;
+  width: 1134.14px;
+  height: 66.61px;
+}
+.strategic-approach {
+  position: absolute;
+  top: 301.91px;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.committed-timelines {
+  top: 438.91px;
+}
+.by-implementing-a,
+.committed-timelines,
+.we-provide-customised {
+  position: absolute;
+  left: 0.26px;
+  display: flex;
+  align-items: center;
+}
+.we-provide-customised {
+  top: 90.91px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+  width: 785.31px;
+  height: 52.59px;
+}
+.by-implementing-a {
+  top: 378.91px;
+}
+.by-implementing-a,
+.this-awsome-model,
+.trust-us-to {
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+  width: 785.31px;
+  height: 52.59px;
+}
+.this-awsome-model {
+  position: absolute;
+  top: 242.91px;
+  left: 0.26px;
+  display: flex;
+  align-items: center;
+}
+.trust-us-to {
+  top: 670.91px;
+}
+.at-nutri-facts-we,
+.quality-services,
+.trust-us-to {
+  position: absolute;
+  left: 0.26px;
+  display: flex;
+  align-items: center;
+}
+.at-nutri-facts-we {
+  top: 392.91px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+  width: 816.86px;
+  height: 330.43px;
+}
+.quality-services {
+  top: 610.91px;
+  font-weight: 600;
+  width: 1134.14px;
+  height: 66.61px;
+}
+.customized-solution-parent {
+  position: absolute;
+  top: 147.09px;
+  left: 5px;
+  width: 1136.16px;
+  height: 723.5px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-gray-200);
+}
+.comprehensive-range-of-solutio-parent {
+  position: absolute;
+  top: 4238px;
+  left: 101px;
+  width: 1141.16px;
+  height: 870.59px;
+  font-size: 52px;
+  color: rgba(19, 68, 239, 0.99);
+}
+.logo-site-background-unremoved-icon {
+  position: absolute;
+  top: 0;
+  left: 69px;
+  width: 258px;
+  height: 287px;
+  object-fit: cover;
+}
+.logo-site-background-unremoved-icon1 {
+  position: absolute;
+  top: 4654px;
+  left: 997px;
+  width: 349px;
+  height: 383px;
+  object-fit: cover;
+}
+.httpslottiefilescom140458-icon,
+.sample-pic-1 {
+  position: absolute;
+  top: 893px;
+  left: 89px;
+  width: 1301px;
+  height: 588px;
+  object-fit: cover;
+}
+.httpslottiefilescom140458-icon {
+  top: 4327px;
+  left: 938px;
+  width: 429px;
+  height: 355px;
+}
+.desktop-2 {
+  position: relative;
+  background-color: #212121;
+  width: 100%;
+  height: 5301px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
